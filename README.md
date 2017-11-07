@@ -1,5 +1,5 @@
 # PEACH
-A reality game
+A reality game with So. Much. Winning.
 
 Game Rules
 ----
