@@ -18,16 +18,16 @@ Rewards
 
 Win Conditions
 ----
-* The game will be time gated by one year from the games' commencement or President Trump's impeachment, whichever comes first
-* There are two possible winners:
-* Indictment winner - wins by getting 5 listed and indicted Trump administration/campaign officals in a vertical, horizontal, or diagonal row
-* Flipped winner - wins by getting 5 listed and flipped Trump administration/campaign officals in a vertical, horizontal, or diagonal row
-* At the end of the time gate:
- - If there is an Indictment winner and a Flipped winner
-  -- The Indictment winner will receive 75% of the jackpot
-  -- The Flipped winner will receive 75% of the jackpot
- - If there is an Indictment winner and no Flipped winner
-  -- The Indictment winner will receive 100% of the jackpot
- - If there is a Flipped winner and no Indictment winner
-  -- The Flipped winner will receive 100% of the jackpot
- - If there are no winners the buy-in will be returned to each player
+- The game will be time gated by one year from the games' commencement or President Trump's impeachment, whichever comes first
+- There are two possible winners:
+    - Indictment winner - wins by getting 5 listed and indicted Trump administration/campaign officals in a vertical, horizontal, or diagonal row
+    - Flipped winner - wins by getting 5 listed and flipped Trump administration/campaign officals in a vertical, horizontal, or diagonal row
+- At the end of the time gate:
+    - If there is an Indictment winner and a Flipped winner
+        - The Indictment winner will receive 75% of the jackpot
+        - The Flipped winner will receive 75% of the jackpot
+    - If there is an Indictment winner and no Flipped winner
+        - The Indictment winner will receive 100% of the jackpot
+    - If there is a Flipped winner and no Indictment winner
+        - The Flipped winner will receive 100% of the jackpot
+    - If there are no winners the buy-in will be returned to each player
