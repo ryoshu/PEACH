@@ -25,7 +25,7 @@ Win Conditions
 - At the end of the time gate:
     - If there is an Indictment winner and a Flipped winner
         - The Indictment winner will receive 75% of the jackpot
-        - The Flipped winner will receive 75% of the jackpot
+        - The Flipped winner will receive 25% of the jackpot
     - If there is an Indictment winner and no Flipped winner
         - The Indictment winner will receive 100% of the jackpot
     - If there is a Flipped winner and no Indictment winner
